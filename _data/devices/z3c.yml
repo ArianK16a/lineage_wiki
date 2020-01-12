@@ -32,6 +32,7 @@ ram: 2 GB
 recovery_boot: With the device powered off, hold <kbd>Volume Down</kbd> + <kbd>Power</kbd>.
  Keep holding both buttons until the device vibrates, then release.
 release: 2014-09-04
+required_bootloader: ['23.5.A.1.291']
 screen: 117 mm (4.6 in)
 screen_ppi: 319
 screen_res: 1280x720
